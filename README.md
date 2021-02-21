@@ -1,3 +1,6 @@
+NOTE: In case you are not able to view the ipynb files on github, then paste its link on nbviewer,
+https://nbviewer.jupyter.org/
+
 # Image-Denoising-using-Deep-Learning
 
 In this repo I have implemented three different deep learning architectures for image denoising,<br>
@@ -14,3 +17,4 @@ I found that PRIDNet was giving the best results as compared to the other two, g
 ![Screenshot](Results/PRIDNet_Prediction_2.png)
 ![Screenshot](Results/PRIDNet_Prediction_1.png)
 ![Screenshot](Results/PRIDNet_Prediction_3.png)
+Notice the level of detail in the eye ball.
